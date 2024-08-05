@@ -1,0 +1,8 @@
+{
+    "headers": {
+        "dateTimeCreated": "example time",
+        "ID": "200",
+        "payloadType": "String"
+    },
+    "value": "Third Basic Event Value"
+}
