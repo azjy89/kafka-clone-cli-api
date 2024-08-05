@@ -1,0 +1,8 @@
+{
+    "headers": {
+        "dateTimeCreated": "12:05:33:10-13-04-2023",
+        "ID": "15",
+        "payloadType": "String"
+    },
+    "value": "Second Basic Event Value"
+}
