@@ -1,1 +1,1 @@
-You can view the assignment specification here: [https://nw-syd-gitlab.cseunsw.tech/COMP2511/24T2/specs/assignment-iii-spec](https://nw-syd-gitlab.cseunsw.tech/COMP2511/24T2/specs/assignment-iii-spec)
+API/CLI using java that is clones the event driven architecture, and asynchronous/replay capabilities of apache kafka
